@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Skillygonzales
 - 👀 I’m interested in Astronomy and Space. 
-- 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Embedded Systems and Python.
 - 📫 How to reach me eandrei271@gmail.com
 
 <!---
